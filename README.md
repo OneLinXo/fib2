@@ -1,2 +1,2 @@
-# fib2
-4x4 de police banalisé 
+glisser le fichier fbi2 dans "ressource"
+ajouter "start fbi2" dans le server.cfg
